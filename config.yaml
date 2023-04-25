@@ -33,9 +33,9 @@ params:
   highlightjsVersion: 9.12.0
   logo:
     alt: Logo
-    height: 50
+    height: 65
     url: logo.jpg
-    width: 50
+    width: 65
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
