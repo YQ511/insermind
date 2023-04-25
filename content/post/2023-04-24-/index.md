@@ -11,9 +11,8 @@ tags:
 
 庄闪闪的R语言手册提供Blog搭建教程（强烈推荐）
 
-公众号推文链接：([https://mp.weixin.qq.com/s/S4B5KO_lc3RZNUOqTJjPNQ)  
-学习写blog的第一天。  
-尝试写一下Markdown](https://mp.weixin.qq.com/s/S4B5KO_lc3RZNUOqTJjPNQ)￼学习写blog的第一天。￼尝试写一下Markdown)
+公众号推文链接：([https://mp.weixin.qq.com/s/S4B5KO_lc3RZNUOqTJjPNQ)](https://mp.weixin.qq.com/s/S4B5KO_lc3RZNUOqTJjPNQ)   
+学习Markdown写blog的第一天。
 
 找到一张好看的桌面壁纸
 
