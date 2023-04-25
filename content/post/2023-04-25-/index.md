@@ -1,6 +1,6 @@
 ---
-title: 记录一下今天的工作
-author: 于清
+title: 碎片记录
+author: Insermind
 date: '2023-04-25'
 slug: ''
 categories:

@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: A Hugo website
+title:Personal Blog for YQ
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
@@ -18,7 +18,7 @@ menu:
       url: /about/
     - name: GitHub
       url: https://github.com/YQ511/insermind
-    - name: Twitter
+    - name: 知乎
       url: https://insermind.netlify.app/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
